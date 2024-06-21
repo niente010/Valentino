@@ -34,7 +34,7 @@ Slowly, we achieved two main modifications: we found a resistor that could chang
 
 ## Step 2: Hacking and Adding Features
 
-![](CircuitBending02.jpg)
+![](CircuitBending03.jpg)
 
 Having identified these possibilities, we decided to add external controls to interact with them.
 
